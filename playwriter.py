@@ -2,7 +2,7 @@ import time
 from playwright.sync_api import sync_playwright
 import os
 
-ID = "1110552460000"
+ID = "0000000000000"
 Password = "Password"
 
 def open_login1(p):
