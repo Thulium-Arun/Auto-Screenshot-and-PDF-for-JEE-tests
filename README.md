@@ -1,0 +1,1 @@
+# Glorifire-Screenshot-Bot
