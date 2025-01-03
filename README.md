@@ -152,3 +152,6 @@ Once you’ve processed the screenshots and converted them into PDFs, the proces
 
 #Words of caution
 I have hard coded which buttons to click during login, but the order on your screen may be different, appropriately change which index button it needs to press during your login session. 
+
+Just FYI, this is some really bad and scrappy code I threw together over the course of a day or two. Its really sloppy. Feel free to mess around with the aspect ratios and how it approaches different tasks. 
+I am new to github so uploading this was a huge task for me. Hopefully you are more competent.
